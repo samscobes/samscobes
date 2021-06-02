@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samscobes
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning javscript and python
+- 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me samskbe@gmail.com or +254 704 649 603
 
